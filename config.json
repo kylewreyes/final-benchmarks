@@ -1,0 +1,3 @@
+{"No optimizations": [],
+  "Constant propagation and inlining": ["uniquify-variables", "inline", "propagate-constants"]
+}
