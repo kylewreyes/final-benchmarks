@@ -8,7 +8,7 @@ import subprocess
 import time
 import csv
 
-N = 10
+N = 5
 
 
 def input_file(benchmark):
